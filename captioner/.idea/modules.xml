@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Captioner-master-captioner.iml" filepath="$PROJECT_DIR$/.idea/modules/Captioner-master-captioner.iml" group="captioner" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/captioner.iml" filepath="$PROJECT_DIR$/captioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/captioner-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/captioner-app.iml" group="captioner/app" />
+    </modules>
+  </component>
+</project>
