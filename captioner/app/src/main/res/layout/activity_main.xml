@@ -9,7 +9,7 @@
     android:weightSum="1"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    android:background="@drawable/images"
+    android:background="@drawable/images2"
     >
 
     <Button
